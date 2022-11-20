@@ -1,7 +1,7 @@
 <h1 align="center">Potência Tech powered by iFood - Java Beginners</h1>
 
 
-<p align="center">Bootcamp Dio + Ifood - Java(CRUD). </p>
+<p align="center">Bootcamp Dio + Ifood - Java. </p>
 
 
 
